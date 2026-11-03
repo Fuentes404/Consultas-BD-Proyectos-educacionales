@@ -18,8 +18,6 @@ El material está organizado por semana para facilitar su revisión.
 
 ## Herramientas
 
-## Herramientas
-
 - **Oracle SQL Developer Data Modeler:** modelado de bases de datos.
 - **Oracle SQL Developer:** conexión al servidor y ejecución de scripts SQL.
 - **Visual Studio Code:** edición de scripts cuando no se usa Oracle SQL Developer.
