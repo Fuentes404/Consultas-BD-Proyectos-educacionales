@@ -10,9 +10,9 @@ El material está organizado por semana para facilitar su revisión.
 | Semana 1 | Introducción a la consulta de Bases de Datos                                       | [Semana 1](./Semana%201) |
 | Semana 2 | Uso de Funciones SQL                                                               | [Semana 2](./Semana%202) |
 | Semana 3 | Funciones de agrupación                                                            | [Semana 3](./Semana%203) |
-| Semana 4 | ----                                                                               | [Semana 4](./Semana%204) |
-| Semana 5 | ----                                                                               | [Semana 5](./Semana%205) |
-| Semana 6 | ----                                                                               | [Semana 6](./Semana%206) |
+| Semana 4 | Creando sentencias JOIN                                                            | [Semana 4](./Semana%204) |
+| Semana 5 | SubConsultas                                                                       | [Semana 5](./Semana%205) |
+| Semana 6 | Sentencias de Manipulación de Datos                                                | [Semana 6](./Semana%206) |
 | Semana 7 | ----                                                                               | [Semana 7](./Semana%207) |
 | Semana 8 | ----                                                                               | [Semana 8](./Semana%208) |
 
